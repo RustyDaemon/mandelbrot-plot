@@ -1,0 +1,11 @@
+[package]
+name = "mandelbrot"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+num = "0.4"
+image = "0.13"
+crossbeam = "0.8"
+num_cpus = "1.0"
+colored = "2.1.0"
